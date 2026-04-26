@@ -20,8 +20,8 @@ Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
 
 ### Building
 
-- ⚙ Fleet & Resource Management system
-- 🏪 POS system for SME
+- 🏠 Property listing platform — buy, sell & rent real estate
+- 🎖️ Task management system for military units
 
 ---
 
