@@ -1,6 +1,6 @@
 # Hi, I'm Krittapas 👋
 
-Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
+Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, Thailand
 
 ---
 
