@@ -10,7 +10,7 @@ Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
 
 ### Tools & Infra
 
-[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,github,vscode,cloudflare&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,github,vscode,cloudflare,postman&perline=10)](https://skillicons.dev)
 
 ### Currently Learning
 
