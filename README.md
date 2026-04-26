@@ -6,7 +6,7 @@ Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
 
 ### Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,laravel,nextjs,nuxtjs,nestjs,nodejs,python,postgres,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,laravel,nextjs,nuxtjs,python,postgres,mysql&perline=10)](https://skillicons.dev)
 
 ### Tools & Infra
 
@@ -14,7 +14,7 @@ Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
 
 ### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=go&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nestjs,nodejs&perline=10)](https://skillicons.dev)
 
 ---
 
