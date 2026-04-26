@@ -1,24 +1,20 @@
 # Hi, I'm Krittapas 👋
 
-Full-Stack Engineer · Laravel & Next.js · AI-Native workflow · Bangkok, TH
+Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, TH
 
 ---
 
 ### Core Stack
 
-![PHP](https://img.shields.io/badge/PHP-Laravel-4F5B93?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-CC2927?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,laravel,nextjs,nuxtjs,nestjs,nodejs,python,postgres,mysql&perline=10)](https://skillicons.dev)
 
----
+### Tools & Infra
+
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,github,vscode,cloudflare&perline=10)](https://skillicons.dev)
 
 ### Currently Learning
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=go&perline=10)](https://skillicons.dev)
 
 ---
 
