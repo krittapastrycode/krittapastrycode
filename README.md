@@ -1,35 +1,45 @@
-# Hi, I'm Krittapas 👋
+# Hi, I'm Krittapas Polmanee 👋
 
-Full-Stack Engineer · Laravel & Next.js · AI-Native · Bangkok, Thailand
+Full-stack developer with a backend core — shipping production systems in Laravel and NestJS.  
+Based in Bangkok · Open to remote roles · EU timezone compatible
+
+📬 capton45@gmail.com · [Portfolio](https://krittapas-polmanee-portfolio-production.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/krittapas-polmanee)
 
 ---
 
 ### Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,laravel,nextjs,nuxtjs,python,postgres,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,typescript,nextjs,nuxtjs,postgres,redis,docker&perline=10)](https://skillicons.dev)
 
 ### Tools & Infra
 
-[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,github,vscode,cloudflare,postman&perline=10)](https://skillicons.dev)
-
-### Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=go,nestjs,nodejs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,github,cloudflare,postman,railway&perline=10)](https://skillicons.dev)
 
 ---
 
-### Building
+### Shipped
 
-- 🏠 Property listing platform — buy, sell & rent real estate
-- 🎖️ Task management system for military units
+- 🏠 **BaanTDee** — Real-estate marketplace · geo-search, subscriptions, Omise payments
+- 🔮 **HoroAcademy** — Astrology platform · 75,000 registered users · Laravel + Filament
+- 📊 **LogicIQ** — Subscription & billing system
+- 🎖️ **Military Task Manager** — Role-based collaborative task management
+
+---
+
+### Experience
+
+- **Backend Developer** · Quintaura Co., Ltd. (Aug 2025 – Jul 2026)  
+  Production Laravel platform · 75,000 users · billing systems & admin dashboards
+- **Research Intern** · Yeungnam University, South Korea (Jul – Sep 2024)  
+  ROS & YOLO-based robotics research
 
 ---
 
 ### AI Workflow
 
-I work AI-natively — using Claude & Gemini as active collaborators  
+I work AI-natively — using Claude as an active collaborator  
 in design, code, and architecture decisions.
 
 ---
 
-📬 Open to remote opportunities
+📬 Open to remote opportunities · EU timezone overlap preferred
