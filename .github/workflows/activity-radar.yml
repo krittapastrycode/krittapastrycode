@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if git diff --quiet -- assets/activity-radar.svg; then
+          if [ -z "$(git status --porcelain -- assets/activity-radar.svg)" ]; then
             echo "Radar unchanged; nothing to commit."
             exit 0
           fi
