@@ -8,9 +8,9 @@
     .name { font-size: 13px; fill: #8b949e; }
   </style>
   <rect width="480" height="390" rx="10" fill="#0d1117"/>
-  <line x1="240" y1="85" x2="240" y2="305" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="130" y1="195" x2="350" y2="195" stroke="#58a6ff" stroke-width="1.5"/>
-  <polygon points="240.0,195.0 242.2,195.0 240.0,195.0 130.0,195.0" fill="#58a6ff66" stroke="#58a6ff" stroke-width="1.5"/>
-  <circle cx="240.0" cy="195.0" r="4" fill="#58a6ff"/><circle cx="242.2" cy="195.0" r="4" fill="#58a6ff"/><circle cx="240.0" cy="195.0" r="4" fill="#58a6ff"/><circle cx="130.0" cy="195.0" r="4" fill="#58a6ff"/>
+  <line x1="240" y1="85" x2="240" y2="305" stroke="#3fb950" stroke-width="1.5"/>
+  <line x1="130" y1="195" x2="350" y2="195" stroke="#3fb950" stroke-width="1.5"/>
+  <polygon points="240.0,195.0 242.2,195.0 240.0,195.0 130.0,195.0" fill="#3fb95066" stroke="#3fb950" stroke-width="1.5"/>
+  <circle cx="240.0" cy="195.0" r="4" fill="#3fb950"/><circle cx="242.2" cy="195.0" r="4" fill="#3fb950"/><circle cx="240.0" cy="195.0" r="4" fill="#3fb950"/><circle cx="130.0" cy="195.0" r="4" fill="#3fb950"/>
   <text x="240" y="52" text-anchor="middle" class="pct">0%</text><text x="240" y="69" text-anchor="middle" class="name">Code review</text><text x="366" y="191" text-anchor="start" class="pct">2%</text><text x="366" y="208" text-anchor="start" class="name">Issues</text><text x="240" y="333" text-anchor="middle" class="pct">0%</text><text x="240" y="350" text-anchor="middle" class="name">Pull requests</text><text x="114" y="191" text-anchor="end" class="pct">98%</text><text x="114" y="208" text-anchor="end" class="name">Commits</text>
 </svg>
