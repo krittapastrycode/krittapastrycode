@@ -37,6 +37,12 @@ Based in Bangkok · Open to remote roles
 
 ---
 
+### Contribution Activity
+
+![Metrics](github-metrics.svg)
+
+---
+
 ### AI Workflow
 
 I work AI-natively — using Claude as an active collaborator  
