@@ -44,10 +44,4 @@ in design, code, and architecture decisions.
 
 ---
 
-### Activity Breakdown
-
-![Activity Breakdown](assets/activity-radar.svg)
-
----
-
 📬 Open to remote backend or full-stack roles
