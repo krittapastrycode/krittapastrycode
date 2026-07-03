@@ -17,9 +17,9 @@ Based in Bangkok · Open to remote roles
 
 ---
 
-### Shipped
+### Projects
 
-- 🏠 **BaanTDee** — Real-estate marketplace · geo-search, subscriptions, Omise payments
+- 🏠 **BaanTDee** *(in dev)* — Real-estate marketplace · geo-search, subscriptions, Omise payments
 - 🔮 **HoroAcademy** — Astrology platform · 75,000 registered users · Laravel + Filament
 - 📊 **LogicIQ** — Subscription & billing system
 - 🎖️ **Military Task Manager** — Role-based collaborative task management
