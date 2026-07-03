@@ -19,10 +19,12 @@ Based in Bangkok · Open to remote roles
 
 ### Projects
 
-- 🏠 **BaanTDee** *(in dev)* — Real-estate marketplace · geo-search, subscriptions, Omise payments
-- 🔮 **HoroAcademy** — Astrology platform · 75,000 registered users · Laravel + Filament
-- 📊 **LogicIQ** — Subscription & billing system
-- 🎖️ **Military Task Manager** — Role-based collaborative task management
+| Project | Status | Link |
+|---------|--------|------|
+| 🔮 **HoroAcademy** — Astrology platform · 75,000 users · Laravel + Filament | Production | [horoacademy.com](https://www.horoacademy.com) |
+| 📊 **LogicIQ** — Subscription & billing system · Laravel + Filament | Production | [logiciq.io](https://logiciq.io) |
+| 🏠 **BaanTDee** — Real-estate marketplace · geo-search, subscriptions, Omise payments | In dev | — |
+| 🎖️ **Military Task Manager** — Role-based task management system | Internal | — |
 
 ---
 
@@ -32,6 +34,16 @@ Based in Bangkok · Open to remote roles
   Production Laravel platform · 75,000 users · billing systems & admin dashboards
 - **Research Intern** · Yeungnam University, South Korea (Jul – Sep 2024)  
   ROS & YOLO-based robotics research
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krittapastrycode&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krittapastrycode&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krittapastrycode&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
 
 ---
 
