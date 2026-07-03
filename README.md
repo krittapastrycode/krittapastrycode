@@ -1,7 +1,7 @@
 # Hi, I'm Krittapas Polmanee 👋
 
 Full-stack developer with a backend core — shipping production systems in Laravel and NestJS.  
-Based in Bangkok · Open to remote roles · EU timezone compatible
+Based in Bangkok · Open to remote roles
 
 📬 capton45@gmail.com · [Portfolio](https://krittapas-polmanee-portfolio-production.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/krittapas-polmanee)
 
@@ -42,4 +42,4 @@ in design, code, and architecture decisions.
 
 ---
 
-📬 Open to remote opportunities · EU timezone overlap preferred
+📬 Open to remote backend or full-stack roles
