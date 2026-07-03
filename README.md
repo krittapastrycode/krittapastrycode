@@ -39,7 +39,7 @@ Based in Bangkok · Open to remote roles
 
 ### Activity Breakdown
 
-![Activity Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krittapastrycode&theme=github_dark)
+![Activity Breakdown](assets/activity-radar.svg)
 
 ---
 
