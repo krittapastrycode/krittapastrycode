@@ -37,16 +37,16 @@ Based in Bangkok · Open to remote roles
 
 ---
 
-### Activity Breakdown
-
-![Activity Breakdown](assets/activity-radar.svg)
-
----
-
 ### AI Workflow
 
 I work AI-natively — using Claude as an active collaborator  
 in design, code, and architecture decisions.
+
+---
+
+### Activity Breakdown
+
+![Activity Breakdown](assets/activity-radar.svg)
 
 ---
 
