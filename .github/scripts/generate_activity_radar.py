@@ -32,8 +32,8 @@ LABEL_GAP = 16
 BACKGROUND = "#0d1117"
 TEXT = "#ffffff"
 MUTED = "#8b949e"
-GREEN = "#58a6ff"
-GREEN_FILL = "#58a6ff66"
+GREEN = "#3fb950"
+GREEN_FILL = "#3fb95066"
 
 QUERY = """
 query($login: String!) {
