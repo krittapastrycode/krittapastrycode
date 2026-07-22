@@ -3,7 +3,7 @@
 Full-stack developer with a backend core — shipping production systems in Laravel and NestJS.  
 Based in Bangkok · Open to remote roles
 
-📬 capton45@gmail.com · [Portfolio](https://krittapas-polmanee-portfolio-production.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/krittapas-polmanee)
+📬 capton45@gmail.com · [Portfolio](https://krittapas-polmanee-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krittapas-polmanee)
 
 ---
 
