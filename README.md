@@ -9,7 +9,7 @@ Based in Bangkok · Open to remote roles
 
 ### Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,typescript,nextjs,nuxtjs,postgres,redis,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,typescript,nextjs,nuxtjs,supabase,postgres,redis,docker&perline=11)](https://skillicons.dev)
 
 ### Tools & Infra
 
@@ -21,6 +21,7 @@ Based in Bangkok · Open to remote roles
 
 | Project | Status | Link |
 |---------|--------|------|
+| 🎓 **TSEC** — Thai government scholarship platform · bilingual, Supabase RLS-gated admin console | Live | [tsec.info](https://tsec.info) |
 | 🔮 **HoroAcademy** — Astrology platform · 75,000 users · Laravel + Filament | Production | [horoacademy.com](https://www.horoacademy.com) |
 | 📊 **LogicIQ** — Subscription & billing system · Laravel + Filament | Production | [logiciq.io](https://logiciq.io) |
 | 🏠 **BaanTDee** — Real-estate marketplace · geo-search, subscriptions, Omise payments | In dev | — |
